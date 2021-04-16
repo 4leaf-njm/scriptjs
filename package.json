@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "scriptjs@2.5.9",
+      "@4leaf.njm/scriptjs@2.6.0",
       "/Users/min/Documents/workspace/ecommerce-react-hooks-graphql-ssr/client"
     ]
   ],
-  "_from": "scriptjs@2.5.9",
-  "_id": "scriptjs@2.5.9",
+  "_from": "@4leaf.njm/scriptjs@2.6.0",
+  "_id": "@4leaf.njm/scriptjs@2.6.0",
   "_inBundle": false,
   "_integrity": "sha512-qGVDoreyYiP1pkQnbnFAUIS5AjenNwwQBdl7zeos9etl+hYKWahjRTfzAZZYBv5xNHx7vNKCmaLDQZ6Fr2AEXg==",
   "_location": "/scriptjs",
@@ -14,24 +14,23 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "scriptjs@2.5.9",
-    "name": "scriptjs",
-    "escapedName": "scriptjs",
-    "rawSpec": "2.5.9",
+    "raw": "@4leaf.njm/scriptjs@2.6.0",
+    "name": "@4leaf.njm/scriptjs",
+    "escapedName": "@4leaf.njm/scriptjs",
+    "rawSpec": "2.6.0",
     "saveSpec": null,
-    "fetchSpec": "2.5.9"
+    "fetchSpec": "2.6.0"
   },
   "_requiredBy": [
     "/react-full-kakao-maps",
     "/react-kakao-maps"
   ],
-  "_resolved": "https://registry.npmjs.org/scriptjs/-/scriptjs-2.5.9.tgz",
-  "_spec": "2.5.9",
+  "_spec": "2.6.0",
   "_where": "/Users/min/Documents/workspace/ecommerce-react-hooks-graphql-ssr/client",
   "author": {
-    "name": "Dustin Diaz",
-    "email": "dustin@dustindiaz.com",
-    "url": "http://dustindiaz.com"
+    "name": "4LEAF NJM",
+    "email": "4leaf.njm@gmail.com",
+    "url": "https://github.com/4leaf-njm"
   },
   "bugs": {
     "url": "https://github.com/ded/script.js/issues"
@@ -50,7 +49,7 @@
     "smoosh": "*"
   },
   "ender": "./src/ender.js",
-  "homepage": "https://github.com/ded/script.js",
+  "homepage": "https://github.com/4leaf-njm/@4leaf.njm/scriptjs",
   "keywords": [
     "ender",
     "script",
@@ -61,10 +60,10 @@
   ],
   "license": "MIT",
   "main": "./dist/script.js",
-  "name": "scriptjs",
+  "name": "@4leaf.njm/scriptjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ded/script.js.git"
+    "url": "git+https://github.com/4leaf-njm/@4leaf.njm/scriptjs"
   },
-  "version": "2.5.9"
+  "version": "2.6.0"
 }
